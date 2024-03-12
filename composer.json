@@ -54,6 +54,7 @@
         "drupal/gin_toolbar": "^1.0@rc",
         "drupal/heartbeat_sh": "^2.0",
         "drupal/image_delta_formatter": "^1.2",
+        "drupal/libraries": "^4.0",
         "drupal/remote_stream_wrapper": "^2.0",
         "drupal/search_api": "^1.28",
         "drupal/search_api_db": "^1.31",
